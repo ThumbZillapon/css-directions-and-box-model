@@ -1,1 +1,39 @@
 /* Start coding here */
+body {
+    font-family: 'Sarabun', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #8CA5B8;
+    padding: 20px;
+  }
+  
+  header h1 {
+    color: #1c2b3a;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  main {
+    padding: 40px;
+  }
+  
+  .post {
+    background-color: #dfe6eb;
+    border: 2px solid #2d4b63;
+    padding: 20px;
+    width: 500px;
+    margin-bottom: 40px;
+  }
+  
+  .post p {
+    color: #333;
+  }
+  h2{
+    color:#2d4b63
+  }
