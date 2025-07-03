@@ -1,1 +1,33 @@
 /* Start coding here */
+body{
+    padding: 0;
+    margin: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+.box{
+    border: 16px solid lightgrey;
+}
+
+.box1{
+    border: 16px solid black ;
+}
+
+.box2{
+    border: 24px solid crimson  ;
+}
+
+h1{
+    font-size: 72px;
+    border: 1px solid black;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    text-align: center;
+    background-color: rgb(237, 242, 88);
+    margin: 0px;
+    height: 625px;
+}

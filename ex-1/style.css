@@ -1,1 +1,29 @@
 /* Start coding here */
+body{
+    padding: 0;
+    margin: 0;
+}
+.content-container{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.header{
+    background-color: #778899;
+    padding: 10px;
+}
+
+h1{
+    padding-left: 40px;
+}
+
+.content{
+    border: 3px solid #04366a;
+    width: 500px;
+    margin-bottom: 40px;
+}
+
+p,img,h2{
+    padding-left: 20px;
+}
+
