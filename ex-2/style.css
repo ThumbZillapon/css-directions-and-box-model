@@ -4,30 +4,29 @@ body{
     margin: 0;
 }
 
-*{
-    box-sizing: border-box;
-}
 .box{
-    border: 16px solid lightgrey;
+    background-color: lightgrey;
+    padding: 16px;
 }
 
 .box1{
-    border: 16px solid black ;
+    background-color: black ;
+    padding: 16px;
 }
 
 .box2{
-    border: 24px solid crimson  ;
+    background-color: crimson  ;
+    padding: 24px;
 }
 
 h1{
     font-size: 72px;
-    border: 1px solid black;
     padding-left: 30px;
     padding-top: 30px;
     padding-bottom: 30px;
     padding-right: 30px;
     text-align: center;
     background-color: rgb(237, 242, 88);
-    margin: 0px;
+    margin: 0;
     height: 100vh;
 }
