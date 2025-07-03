@@ -1,1 +1,16 @@
 /* Start coding here */
+.container{
+    background-color: rgb(119, 142, 161);
+    padding: 2rem 0 2rem 4rem;
+}
+.container-blog{
+    width: 30%;
+    background-color: rgb(222, 232, 235);
+    border: 5px solid rgb(19, 66, 105);
+    padding: 2rem;
+    margin: 5rem;
+}
+
+.cafe-image, .local-image{
+    width: 100%;
+}
